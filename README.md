@@ -1,6 +1,8 @@
 ![logo](src/main/resources/logo.png)
 
-# Wurst+3 
+i am dumb i discontinue
+
+# Wurst+phobos
 
 <img src="https://img.shields.io/github/downloads/WurstPlus/wurst-plus-three/total" alt="dwnlds" />
 
